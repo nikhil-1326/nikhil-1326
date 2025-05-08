@@ -5,7 +5,7 @@ I turn math & physics into silicon, firmware, and working gadgets.
 #### ⚡ Key Projects
 | Year | Project | Description |
 |------|---------|-------|
-| 2025 | **Arduino Real‑Time Audio Spectrum Analyzer** | 64‑pt DFT in 2 KB SRAM, 5‑band OLED at ≥ 30 Hz, BJT pre‑amp & clip‑detection. |
+| 2025 | **Arduino Real‑Time Audio Spectrum Analyzer** | 32‑pt DFT in 2 KB SRAM, 5‑band OLED at ≥ 30 Hz, BJT pre‑amp & clip‑detection. |
 | 2025 | **FPGA Pipelined CORDIC Waveform Generator** | 12‑stage @ 100 MHz → 12‑bit sine/cos over SPI; ±1 % RMSE, 55 dB SNR up to ~73 kHz. |
 | 2025 | **MEH‑PPV Thin‑Film PL‑Quantum‑Yield Study** | Integrating‑sphere spectra → best anneal recipe for max radiative efficiency. |
 | 2024 | **Two‑Stage CMOS Op‑Amp** | ≥ 40 dB gain, 5 MHz GBW, 60 ° PM; Cadence schematic‑to‑layout, corner‑verified. |

@@ -3,7 +3,7 @@ M.Tech Semiconductor Technology ’26 • IISc Bangalore
 I turn math & physics into silicon, firmware, and working gadgets.
 
 #### ⚡ Key Projects
-| Year | Project | TL;DR |
+| Year | Project | Description |
 |------|---------|-------|
 | 2025 | **Arduino Real‑Time Audio Spectrum Analyzer** | 64‑pt DFT in 2 KB SRAM, 5‑band OLED at ≥ 30 Hz, BJT pre‑amp & clip‑detection. |
 | 2025 | **FPGA Pipelined CORDIC Waveform Generator** | 12‑stage @ 100 MHz → 12‑bit sine/cos over SPI; ±1 % RMSE, 55 dB SNR up to ~73 kHz. |
